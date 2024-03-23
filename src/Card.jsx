@@ -10,9 +10,9 @@ function Card({card, cardUpdate, cardDelete, filterChange}) {
                   
                   <div className="card-body bg-light">
                   <p className="bg-dark">Description: {card.TodoDescription}</p>
-                  </div>
+                  </div><br />
                   <p className="d-inline">
-                  <b className="bg-light"><label className="bg-dark" htmlFor="dropDown">Status : </label></b>
+                  <b className="bg-light"><label className="bg-dark" htmlFor="dropDown">Status :&nbsp;&nbsp; </label></b>
                   </p>
                  
                   
