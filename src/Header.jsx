@@ -4,9 +4,9 @@ import React from 'react'
 function Header() {
   return (
    <div className='header'>
-   <nav class="navbar navbar-dark bg-dark">
-   <div class="container-fluid bg-dark">
-     <span class="navbar-brand mb-0 h1 bg-dark">My ToDo Page 😎</span>
+   <nav className="navbar navbar-dark bg-dark">
+   <div className="container-fluid bg-dark">
+     <span className="navbar-brand mb-0 h1 bg-dark">My ToDo Page 😎</span>
    </div>
  </nav></div>
   )
